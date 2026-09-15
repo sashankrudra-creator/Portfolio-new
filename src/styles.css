@@ -213,7 +213,8 @@ h2 i {
   bottom: 0;
   left: 50%;
   width: min(100vw, 1000px);
-  height: 95vh;
+  height: 75vh;
+  max-height: 800px;
   transform: translateX(-50%);
   display: flex;
   align-items: flex-end;
