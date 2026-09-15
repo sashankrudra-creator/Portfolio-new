@@ -139,7 +139,7 @@ body {
 }
 .hero h1 {
   font-weight: 500;
-  font-size: clamp(72px, 14.8vw, 240px);
+  font-size: clamp(54px, 11.1vw, 180px);
   line-height: 0.8;
   letter-spacing: -0.085em;
   margin: 0;
