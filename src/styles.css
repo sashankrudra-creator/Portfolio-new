@@ -251,7 +251,7 @@ h2 i {
 .floating-icons {
   position: absolute;
   top: 50%;
-  left: 110%;
+  left: 100%;
   width: 0;
   height: 0;
   pointer-events: none;
@@ -259,15 +259,15 @@ h2 i {
 }
 .float-card {
   position: absolute;
-  top: -87.5px;
-  left: -70px;
-  width: 140px;
+  top: -70px;
+  left: -56px;
+  width: 112px;
   aspect-ratio: 4/5;
-  border-radius: 12px;
+  border-radius: 10px;
   background: rgba(20, 20, 20, 0.4);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.1);
-  padding: 6px;
+  padding: 5px;
   animation: diamond 24s linear infinite;
   display: flex;
   flex-direction: column;
@@ -308,12 +308,12 @@ h2 i {
   gap: 3px;
 }
 .card-title {
-  font: 600 12px var(--mono);
+  font: 600 10px var(--mono);
   color: #fff;
   letter-spacing: 0.05em;
 }
 .card-tech {
-  font: 9px var(--mono);
+  font: 7.5px var(--mono);
   color: var(--ember);
   letter-spacing: 0.1em;
 }
