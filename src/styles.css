@@ -159,7 +159,7 @@ h2 i {
   margin-top: clamp(50px, 10vh, 130px);
 }
 .hero-bottom > p {
-  font-size: clamp(15px, 1.3vw, 19px);
+  font-size: clamp(12px, 1vw, 15px);
   line-height: 1.5;
   margin: 0;
   color: #d3cec5;
@@ -172,9 +172,9 @@ h2 i {
 }
 .button {
   border: 1px solid rgba(233, 229, 220, 0.4);
-  padding: 15px 24px;
+  padding: 12px 20px;
   color: var(--paper);
-  font: 500 15px var(--mono);
+  font: 500 12px var(--mono);
   letter-spacing: 0.08em;
   text-decoration: none;
   text-transform: uppercase;
